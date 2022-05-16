@@ -1,0 +1,26 @@
+{
+  "name": "moveIt",
+  "short_name": "moveIt",
+  "icons": [
+    {
+      "src": "img/launchericon-96-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/launchericon-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img/launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#121214",
+  "description": "MoveIt developer by Alquipo",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#121214"
+}

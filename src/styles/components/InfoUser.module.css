@@ -1,0 +1,145 @@
+.Container{ 
+    display: flex;
+}
+
+.userContainer{
+    grid-gap:1px;
+    height: 10rem;
+    width: 100%; 
+}
+
+.userContainer:nth-child(1){
+    width: 80rem;
+    text-align: right;
+}
+.userContainer:nth-child(2){
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+ width: 200rem;
+}
+.userContainer:nth-child(2) p {
+    width: 98%;
+    text-align: left;
+    margin-top: 4rem;
+    font-size: 1.8rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+
+.userContainer:nth-child(3) {
+    width: 35rem;
+    margin-right: 7rem;
+}
+
+.userContainer:nth-child(3) button {
+    width: 100%;
+    height: 2.5rem;
+    text-align: center;
+    background-color: rgba(123, 21, 132, 0.611);
+    color: rgb(249, 250, 251);
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    margin-left: -9.5rem;
+    margin-top: 3.3rem;
+}
+
+.fotoUser{
+    height: 10rem;
+    border-radius: 50%;
+   
+}
+
+.photoPadrao{
+    margin-top: 3.4rem;
+    width: 5rem;
+}
+
+@media screen and (max-width: 1580px) {
+    .fotoUser{
+    height: 7rem;
+    margin-top: 2rem;
+    border-radius: 50%;
+}
+}
+
+@media screen and (max-width: 1080px){
+    .Container {
+        width: 48rem;
+        display: flex;
+    }
+    .userContainer{
+        display: flex;
+        flex-direction: row;
+        width: 10rem;
+    }
+    .userContainer:nth-child(1){
+        margin-left: 6rem;
+        width: 6rem;
+    }
+    .userContainer:nth-child(2){
+        width: 22.5rem;
+    }
+    .userContainer:nth-child(2) p{
+        margin-top: 0rem;
+        font-size: 1.5rem;
+    }
+    .userContainer:nth-child(3){
+        width: 8rem;
+        margin-right: 0rem;
+    }
+    .userContainer:nth-child(3) button {
+        width: 8rem;
+        margin-left: 0rem;
+        margin-top: 0rem;
+    }
+    .fotoUser{
+        width: 7rem;
+        height: 7rem;
+        margin-top: 1rem;
+        margin-left: -1.4rem;
+    } 
+   
+}
+
+@media screen and (max-width: 520px){
+    .Container {
+        width: 35rem;
+        display: flex;
+    }
+    .userContainer{
+        display: flex;
+        flex-direction: row;
+        width: 10rem;
+    }
+    .userContainer:nth-child(1){
+        margin-left: 1rem;
+        width: 8rem;
+    }
+    .userContainer:nth-child(2){
+        width: 17rem;
+    }
+    .userContainer:nth-child(2) p{
+        margin-top: 0rem;
+        font-size: 1.5rem;
+    }
+    .userContainer:nth-child(3){
+        width: 6rem;
+        margin-right: 0rem;
+    }
+    .userContainer:nth-child(3) button {
+        width: 8rem;
+        margin-left: -5rem;
+        margin-top: 0rem;
+    }
+    .fotoUser{
+        width: 7rem;
+        height: 7rem;
+        margin-top: 1rem;
+        margin-left: 0rem;
+    }
+}
