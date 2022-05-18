@@ -123,7 +123,7 @@ O que acontece é que essas pessoas com o passar do tempo, acabam desenvolvendo 
 
 > 📝 Clonando o repositório e entrando no diretório criado.
 ```shell
-git clone git@github.com:pedrotavolaro/focustime.git && cd move-it
+git clone git@github.com:pedrotavolaro/FocusTime.git && cd FocusTime
 ```
 
 > 📝 Baixando / Instalando dependências.
