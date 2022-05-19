@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://antonionarcilio-move-it.vercel.app">
-    <img title="Visualizar aplicação" width="25%" src="./.github/move-it.svg">
+  <a href="https://tempofocado.vercel.app">
+    <img title="Visualizar aplicação" width="25%" src="./public/move-it.svg">
   </a>
 </p>
 
@@ -112,6 +112,37 @@ O que acontece é que essas pessoas com o passar do tempo, acabam desenvolvendo 
 <h2 id="Projeto">
 👔 Projeto
 </h2>
+
+
+<a href="https://tempofocado.vercel.app">
+<img title="move.it" src="./public/dark.png">
+</a>
+<span align="center"><h6>Clique na imagem para visualizar a aplicação</h6></span>
+
+<br>
+
+<h2>🖥 Capturas de tela</h2>
+
+<table>
+  <tr align="center">
+    <td><h5>Notificação</h5></td>
+    <td><h5>Subindo de level</h5></td>
+  </tr>
+  <tr>
+    <td><a href="./.github/notification.webp?raw=true"><img src="./public/time.GIF"></a></td>
+    <td><a href="./.github/levelup.webp?raw=true"><img src="./.github/levelup.webp"></a></td>
+  </tr>
+  <tr align="center">
+    <td><h5>Temas dark / light</h5></td>
+    <td><h5>Animação de carregamento</h5></td>
+  </tr>
+  <tr>
+    <td><a href="./.github/dark-and-light-mode.webp?raw=true"><img src="./.github/dark-and-light-mode.webp"></a></td>
+    <td><a href="./.github/load-animation.webp?raw=true"><img src="./.github/load-animation.webp"></a></td>
+  </tr>
+</table>
+
+<br>
 
 
 <h2 id="local">
