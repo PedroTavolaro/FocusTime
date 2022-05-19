@@ -1,21 +1,23 @@
 
     .container{
-        
-        height: 58px;
+        height: 100px;
         background: transparent;
         color: Black;
-        display: grid;
-        grid-template-columns: 0.4fr 0.5fr 0.5fr 0.64fr;
-        gap: 6.25rem;
+        display: flex;
         align-items: center;
         padding: 0 30px; 
         flex-direction: row;
         margin-top: 0rem;
-        justify-content: center;
+        justify-content: space-between;
+        
+    }
+
+    .section{
+        width: 30%;
     }
 
     .sectionOne{
-        
+        width: 45%;
     }
     .sectionOne a {
         width: 8rem;
@@ -36,7 +38,7 @@
         display: flex;
     }
     .sectionThree{
-        
+        margin-left: 15rem;
         height: 2.5rem;
         width: 55%;
         margin-bottom: 2rem;

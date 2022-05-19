@@ -1,5 +1,7 @@
 .Container{ 
     display: flex;
+    margin-top: -1.4rem;
+    height: 9.8rem;
 }
 
 .userContainer{
