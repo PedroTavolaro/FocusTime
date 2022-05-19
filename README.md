@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tempofocado.vercel.app">
-    <img title="Visualizar aplicação" width="25%" src="./public/move-it.svg">
+    <h1 align='center' color='green'>FocusTime :stopwatch:</h1>
   </a>
 </p>
 
@@ -104,8 +104,9 @@ O que acontece é que essas pessoas com o passar do tempo, acabam desenvolvendo 
 - [x] `Receber experiencia` ao concluir um desafio.
 - [x] `Subir de nível` ao obter a quantidade estipulada para ir para o próximo level.
 - [x] `Animação` ao subir de level.
-- [x] `Navegação` entre pagina pelo side bar.
+- [x] `Navegação` entre páginas.
 - [x] `Temas` dark (dracula) e light (nlw).
+- [x] `Adicionar perfil` (foto + nome).
 
 <br>
 
@@ -129,18 +130,30 @@ O que acontece é que essas pessoas com o passar do tempo, acabam desenvolvendo 
     <td><h5>Subindo de level</h5></td>
   </tr>
   <tr>
-    <td><a href="./.github/notification.webp?raw=true"><img src="./public/gitgub/time.GIF"></a></td>
-    <td><a href="./.github/levelup.webp?raw=true"><img src="./public/github/levelup.GIF"></a></td>
+    <td><a href="./public/github/time.GIF?raw=true"><img src="./public/github/time.GIF"></a></td>
+    <td><a href="./public/github/levelup.GIF?raw=true"><img src="./public/github/levelup.GIF"></a></td>
   </tr>
   <tr align="center">
     <td><h5>Temas dark / light</h5></td>
-    <td><h5>Animação de carregamento</h5></td>
+    <td><h5>Adicionando perfil</h5></td>
   </tr>
   <tr>
-    <td><a href="./.github/dark-and-light-mode.webp?raw=true"><img src="./public/github/thema.GIF"></a></td>
-    <td><a href="./.github/load-animation.webp?raw=true"><img src="./public/github/addperfil.GIF"></a></td>
+    <td><a href="./public/github/theme.GIF?raw=true"><img src="./public/github/theme.GIF"></a></td>
+    <td><a href="./public/github/addperfil.GIF?raw=true"><img src="./public/github/addperfil.GIF"></a></td>
   </tr>
 </table>
+
+<br>
+
+
+<h2 id="prototipagem">
+✈ Prototipagem
+</h2>
+
+<a href="https://www.figma.com/file/Vy9miLuSI9lUpWctklcb5n/FocusTime?node-id=160%3A2761">
+<img title="focustime" src="./public/github/Prototipo.svg">
+</a>
+<h6 align="center">Clique na imagem para ver o projeto no figma</h6>
 
 <br>
 
