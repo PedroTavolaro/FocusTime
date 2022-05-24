@@ -61,7 +61,7 @@ return(
             </div>
 
             <div className={styles.sectionThree}>
-                <a href='https://www.pedrotavolaro.com'>
+                <a href='https://www.pedrotavolaro.com/ProjectsDescriptions/FocusTime'>
                     {title === 'dark' ? 
                     <p className={styles.lightText}>Saiba mais</p>
                     :
